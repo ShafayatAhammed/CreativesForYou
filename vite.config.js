@@ -5,8 +5,8 @@ export default defineConfig({
   build: {
     rollupOptions: {
       input: {
-        index: resolve(__dirname, "./index.html"),
-        script: resolve(__dirname, "./script.js"),
+        index: resolve(__dirname, "index.html"),
+        script: resolve(__dirname, "script.js"),
       },
     },
   },
