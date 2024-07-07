@@ -4,7 +4,8 @@
   "description": "creatives for you was a html css project that is now redesigned and rebuilt with tailwindcss",
   "main": "index.js",
   "scripts": {
-    "dev": "vite"
+    "dev": "vite",
+    "build": "vite build"
   },
   "keywords": [
     "creatives-for-you",
