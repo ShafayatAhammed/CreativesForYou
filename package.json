@@ -1,0 +1,23 @@
+{
+  "name": "creative-for-you",
+  "version": "1.0.0",
+  "description": "creatives for you was a html css project that is now redesigned and rebuilt with tailwindcss",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "keywords": [
+    "creatives-for-you",
+    "tailwindcss",
+    "project"
+  ],
+  "author": "Shafayat Ahammed",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^10.4.19",
+    "postcss": "^8.4.39",
+    "tailwindcss": "^3.4.4",
+    "vite": "^5.3.3"
+  }
+}
